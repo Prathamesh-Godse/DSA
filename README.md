@@ -4,8 +4,8 @@
 
 These help lock in core patterns: two-pointer, sliding window, prefix sum, etc.
 
-| Pattern         | Problem                                    |
-| --------------- | ------------------------------------------ |
+| Pattern         | Problem                                    | C++ | PHP |
+| --------------- | ------------------------------------------ |-----|-----|
 | Two pointers    | Container With Most Water                  |
 | Sliding window  | Maximum Subarray (Kadane's Algorithm)      |
 | Prefix sum      | Subarray Sum Divisible by K                |
