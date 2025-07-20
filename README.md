@@ -20,7 +20,7 @@ These help lock in core patterns: two-pointer, sliding window, prefix sum, etc.
 | Logic           | Repeat and Missing Number                  | [here](code/repeat-and-missing-number-c++.md)                  | [here](code/repeat-and-missing-number-php.md)                  |
 | Tricky          | Trapping Rain Water                        | [here](code/trapping-rain-water-c++.md)                        | [here](code/trapping-rain-water-php.md)                        |
 | Product logic   | Product of Array Except Self               | [here](code/product-of-array-except-self-c++.md)               | [here](code/product-of-array-except-self-php.md)               |
-| Optimization    | Maximum Product Subarray                   | [here](code/maximum-product-subarray-c++.md)                   | [here](code/Maximum Product Subarray-php.md)                   |
+| Optimization    | Maximum Product Subarray                   | [here](code/maximum-product-subarray-c++.md)                   | [here](code/maximum-product-subarray-php.md)                   |
 
 ---
 
