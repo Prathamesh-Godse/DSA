@@ -6,7 +6,7 @@ These help lock in core patterns: two-pointer, sliding window, prefix sum, etc.
 
 | Pattern         | Problem                                    | C++                                                       | PHP                                                       |
 | --------------- | ------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
-| Two pointers    | Container With Most Water                  | [here](code/container-with-most-water-c++.cpp)                  | [here](code/container-with-most-water-php.md)                  |
+| Two pointers    | Container With Most Water                  | [here](code/container-with-most-water-c++.md)                  | [here](code/container-with-most-water-php.md)                  |
 | Sliding window  | Maximum Subarray-Kadane's Algorithm        | [here](code/maximum-subarray-kadane-s-algorithm-c++.md)        | [here](code/maximum-subarray-kadane-s-algorithm-php.md)        |
 | Prefix sum      | Subarray Sum Divisible by K                | [here](code/subarray-sum-divisible-by-k-c++.md)                | [here](code/subarray-sum-divisible-by-k-php.md)                |
 | Greedy          | Best Time to Buy and Sell Stock            | [here](code/best-time-to-buy-and-sell-stock-c++.md)            | [here](code/best-time-to-buy-and-sell-stock-php.md)            |
