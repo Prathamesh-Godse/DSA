@@ -1,6 +1,6 @@
 # Problem: Container With Most Water
 
-## Brute Force [here](cpp/container-with-most-water.cpp)
+## Brute Force 
 
 ```
 class Solution {
@@ -15,8 +15,9 @@ public:
         return res;
     }
 };
-
 ```
+[here](cpp/container-with-most-water.cpp)
+
 ## Two-Pointer
 
 ```
