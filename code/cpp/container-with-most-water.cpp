@@ -18,7 +18,15 @@ public:
 };
 
 int main() {
-    vector<int> heights = {1, 8, 6, 2, 5, 4, 8, 3, 7};
+    int n;
+    cout << "Enter number of elements: ";
+    cin >> n;
+
+    vector<int> heights(n);
+    cout << "Enter " << n << " heights:\n";
+    for (int i = 0; i < n; ++i) {
+        cin >> heights[i];
+    }
     Solution sol;
     int result = sol.maxArea(heights);
     cout << "Maximum area: " << result << endl;
