@@ -15,3 +15,4 @@ if __name__ == "__main__":
     prices = list(map(int, input("Enter stock prices: ").split()))
     result = maxProfit(prices)
     print("Maximum profit:", result)
+    
