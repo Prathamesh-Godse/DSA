@@ -4,7 +4,7 @@
 
 1. **[Container With Most Water](Code/Arrays_Bit_Manipulation/Container_With_Most_Water.md)**
     
-2. **[Maximum Subarray – Kadane's Algorithm](Code/Arrays_Bit_Manipulation/Maximum_Subarray_Kadane_S_Algorithm.cpp)**
+2. **[Maximum Subarray – Kadane's Algorithm](Code/Arrays_Bit_Manipulation/Maximum_Subarray_Kadane_S_Algorithm.md)**
     
 3. **[Subarray Sum Divisible by K](Code/Arrays_Bit_Manipulation/Subarray_Sum_Divisible_By_K.cpp)**
     
