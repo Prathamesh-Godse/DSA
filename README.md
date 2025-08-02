@@ -8,7 +8,7 @@
     
 3. **[Subarray Sum Divisible by K](Code/Arrays_Bit_Manipulation/Subarray_Sum_Divisible_By_K.md)**
     
-4. **[Best Time to Buy and Sell Stock](Code/Arrays_Bit_Manipulation/Best_Time_To_Buy_And_Sell_Stock.cpp)**
+4. **[Best Time to Buy and Sell Stock](Code/Arrays_Bit_Manipulation/Best_Time_To_Buy_And_Sell_Stock.md)**
     
 5. **[Count Inversions in an Array](Code/Arrays_Bit_Manipulation/Count_Inversions_In_An_Array.cpp)**
     
