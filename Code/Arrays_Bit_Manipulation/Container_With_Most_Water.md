@@ -1,6 +1,8 @@
-# Leetcode [here](https://leetcode.com/problems/container-with-most-water/)
+# Container With Most Water
 
-# C++
+## Leetcode [here](https://leetcode.com/problems/container-with-most-water/)
+
+## C++
 
 ```
 class Solution {
@@ -23,7 +25,7 @@ public:
 
 ```
 
-# Java
+## Java
 
 ```
 class Solution {
@@ -45,7 +47,7 @@ class Solution {
 
 ```
 
-# Python
+## Python
 
 ```
 class Solution:
@@ -64,7 +66,7 @@ class Solution:
 
 ```
 
-# C
+## C
 
 ```
 int maxArea(int* height, int heightSize) {
@@ -89,7 +91,7 @@ int maxArea(int* height, int heightSize) {
 
 ```
 
-# C#
+## C#
 
 ```
 public class Solution {
@@ -114,7 +116,7 @@ public class Solution {
 }
 ```
 
-# JavaScript
+## JavaScript
 
 ```
 /**
@@ -141,7 +143,7 @@ var maxArea = function(height) {
 };
 ```
 
-# PHP
+## PHP
 
 ```
 class Solution {
@@ -174,7 +176,7 @@ class Solution {
 }
 ```
 
-# Go
+## Go
 
 ```
 func maxArea(height []int) int {
