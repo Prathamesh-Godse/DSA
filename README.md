@@ -6,7 +6,7 @@
     
 2. **[Maximum Subarray – Kadane's Algorithm](Code/Arrays_Bit_Manipulation/Maximum_Subarray_Kadane_S_Algorithm.md)**
     
-3. **[Subarray Sum Divisible by K](Code/Arrays_Bit_Manipulation/Subarray_Sum_Divisible_By_K.cpp)**
+3. **[Subarray Sum Divisible by K](Code/Arrays_Bit_Manipulation/Subarray_Sum_Divisible_By_K.md)**
     
 4. **[Best Time to Buy and Sell Stock](Code/Arrays_Bit_Manipulation/Best_Time_To_Buy_And_Sell_Stock.cpp)**
     
